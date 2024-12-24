@@ -2,7 +2,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ '知心宝贝','知心宝贝','Merry Christmas','Merry Christmas','Merry Christmas','Merry Christmas','知心宝贝','12月25','知心宝贝','Merry Christmas','Happy Holidays', ' 知心宝贝','12月25','知心宝贝','Merry Christmas','知心宝贝','Merry Christmas','知心宝贝' ];
+const greetings = [ 'zhang chen qiang','zhang chen qiang','Merry Christmas','Merry Christmas','Merry Christmas','Merry Christmas','zhang chen qiang','12月25','zhang chen qiang','Merry Christmas','Happy Holidays', ' zhang chen qiang','12月25','zhang chen qiang','Merry Christmas','zhang chen qiang','Merry Christmas','zhang chen qiang' ];
 let tree = document.querySelector( '.tree' ),
 	treeRotation = 0;
  
